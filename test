@@ -2,6 +2,10 @@
 
 echo "script startet"
 
-sleep(200)
+sleep 3
+
+echo "loading . . ."
+
+sleep 20
 
 echo "script erfolgreich ausgeführt!"
