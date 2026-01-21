@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "script startet"
+
+sleep(200)
+
+echo "script erfolgreich ausgeführt!"
